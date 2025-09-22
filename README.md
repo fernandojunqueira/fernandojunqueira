@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Fernando Junqueira 👋
 
- Estou atualmente aprendendo Python
-
 <div>
   <a href="https://github.com/fernandojunqueira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoJunqueira&show_icons=true&theme=graywhite"/>
